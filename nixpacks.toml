@@ -1,1 +1,3 @@
+[phases.start]
 cmd = "python api-colon.py"
+
